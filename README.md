@@ -17,15 +17,14 @@ Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 
 
 ##Etapa 2. Diseño de la solución   
-+------------------------------------------------------------+
-|- Entrada:                                                  |
-|- String numeroTarejta                                      |
-|- int pin                                                   |
-|- float saldo                                               |
-|- Adicionales: nombre, email, telefono                      |
-|- Proceso                                                   |
-|- Validar los datos ingresados: numero de tarjeta y pin     |
-|- mostar un menu de opciones del cajero automatico          |
-|- Salida:                                                   |
-|Diseñar interfaz ...                                        |
-+------------------------------------------------------------+
+- Entrada:                                                  
+- String numeroTarejta                                      
+- int pin                                                  
+- float saldo                                               
+- Adicionales: nombre, email, telefono                      
+- Proceso                                                   
+- Validar los datos ingresados: numero de tarjeta y pin     
+- mostar un menu de opciones del cajero automatico          
+- Salida:                                                   
+Diseñar interfaz ...                                        
+
