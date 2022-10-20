@@ -16,7 +16,8 @@
 Utilizar la metodología de las 6D y compartir el enlace de su repositorio.
 
 
-##Etapa 2. Diseño de la solución   
+##Etapa 2. Diseño de la solución
+~~~
 - Entrada:                                                  
 - String numeroTarejta                                      
 - int pin                                                  
